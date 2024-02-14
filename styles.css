@@ -42,8 +42,6 @@
     position: absolute;
     top: 0;
     background-color: transparent;
-    margin-top: 10px;
-    margin-bottom: 20px;
 }
 
 .text {
@@ -91,7 +89,7 @@
 
 .flowers {
     position: relative;
-    transform: scale(1.2);
+    transform: scale(1.5);
 }
 
 .flower {
