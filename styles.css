@@ -42,6 +42,7 @@
     position: absolute;
     top: 0;
     background-color: transparent;
+    margin-top: 10px;
     margin-bottom: 20px;
 }
 
@@ -50,7 +51,7 @@
     font-weight: 400;
     font-style: normal;
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     color: white;
 }
 
@@ -90,7 +91,7 @@
 
 .flowers {
     position: relative;
-    transform: scale(1);
+    transform: scale(1.2);
 }
 
 .flower {
