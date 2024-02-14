@@ -90,7 +90,7 @@
 
 .flowers {
     position: relative;
-    transform: scale(.85);
+    transform: scale(1);
 }
 
 .flower {
